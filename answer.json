@@ -1,6 +1,4 @@
 {
-  "code": 100,
-  "message": "Data fetched successfully!",
   "major": {
     "youtube": {
       "Watch YouTube Video #1": "070624",
@@ -33,19 +31,10 @@
     "Token Burning: How \u0026 Why?": "ONFIRE",
     "Bitcoin Rainbow Chart?": "SOBLUM",
     "Crypto Terms. Part 1": "BLUMEXPLORER",
-"How to trade Perps?": "CRYPTOFAN"
+    "How to trade Perps?": "CRYPTOFAN"
   },
   "timefarm": {
     "answer": "30/01/2019"
   },
-  "expires": 1729036799,
-  "community": {
-    "Telegram Community": "https://t.me/mysticpredators",
-    "Messenger Community": "https://m.me/j/AbbTtlcHbvhzha2u/"
-  },
-  "Mystic Predators 💳": {
-    "Drunk": "Jayson Crowel",
-    "Insane": "Duke Silver ❤️",
-    "Additional_Info": "Join our community for updates."
-  }
+  "expires": 1729036799
 }
