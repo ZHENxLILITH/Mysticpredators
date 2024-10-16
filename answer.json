@@ -1,4 +1,8 @@
 {
+	"tomarket": {
+		"answer": "3,4,9",
+		"expires": 1729184400
+	},
 	"major": {
 		"youtube": {
 			"Watch YouTube Video #1": "070624",
@@ -8,10 +12,10 @@
 			"Watch YouTube Shorts #6": "241086"
 		},
 		"answer": {
-			"choice_1": 10,
-			"choice_2": 14,
-			"choice_3": 12,
-			"choice_4": 1
+			"choice_1": 1,
+			"choice_2": 2,
+			"choice_3": 3,
+			"choice_4": 8
 		}
 	},
 	"blum": {
@@ -30,10 +34,11 @@
 		"How to Memecoin?": "MEMEBLUM",
 		"Token Burning: How & Why?": "ONFIRE",
 		"Bitcoin Rainbow Chart?": "SOBLUM",
-		"Crypto Terms. Part 1": "BLUMEXPLORER"
+		"Crypto Terms. Part 1": "BLUMEXPLORER",
+		"How to trade Perps?": "CRYPTOFAN"
 	},
 	"timefarm": {
-		"answer": "21/12/2012"
+		"answer": "14/03/2016"
 	},
-	"expires": 1728777600
+	"expires": 1729123200
 }
